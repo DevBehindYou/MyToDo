@@ -15,3 +15,9 @@ MyToDo is a simple, lightweight, and secure to-do list app designed for users wh
 ## Why MyToDo?
 
 In a world full of complex and feature-heavy apps, MyToDo offers a refreshing alternative for those who need a simple, reliable tool to manage their daily tasks without any fuss.
+
+## Contribute:
+Contributions are welcome! Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## License:
+This project is licensed under the MIT License.
