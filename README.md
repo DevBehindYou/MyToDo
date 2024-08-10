@@ -1,5 +1,7 @@
 # MyToDo
 
+<img src="https://github.com/user-attachments/assets/1148a7df-189d-40f5-8068-584e338178e0" alt="My Image" height="330">
+
 ### Description:
 
 MyToDo is a simple, lightweight, and secure to-do list app designed for users who appreciate a clean and minimalistic interface. It’s perfect for those who want to organize their tasks without any distractions. With MyToDo, you can manage your tasks efficiently, even without an internet connection, ensuring your data is always safe and accessible offline.
