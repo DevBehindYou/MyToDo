@@ -12,6 +12,9 @@ MyToDo is a simple, lightweight, and secure to-do list app designed for users wh
 - Secure Offline Usage: No need to worry about connectivity. MyToDo works seamlessly offline, and your data stays securely stored on your device.
 - Lightweight: Designed to be fast and responsive, MyToDo won’t take up much space on your device, ensuring smooth performance even on older hardware.
 
+## Image:
+<img width="1419" height="2796" alt="project-mytodo-android-03-portrait" src="https://github.com/user-attachments/assets/5d2bfe5d-e664-4eff-8a8e-dda5df6acb17" />
+
 ## Why MyToDo?
 
 In a world full of complex and feature-heavy apps, MyToDo offers a refreshing alternative for those who need a simple, reliable tool to manage their daily tasks without any fuss.
